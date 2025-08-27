@@ -11,11 +11,6 @@ A modern **Java + Gradle** powered reimagining of the classic *Space Invaders* a
 
 ---
 
-## 📸 Screenshots (Demo)  
-*(Add screenshots/gifs here once available)*  
-
----
-
 ## 🛠️ Tech Stack  
 - **Java (Swing)** – Core game logic & rendering  
 - **Gradle** – Build & dependency management  
